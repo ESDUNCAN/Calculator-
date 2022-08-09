@@ -70,7 +70,8 @@ input {
 
 .operator {
   font-size: 1.4rem;
-  background-color: lightgreen;
+  /* background-color: lightgreen; */
+  background-color: green;
 
 }
 
